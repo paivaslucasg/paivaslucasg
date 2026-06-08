@@ -50,5 +50,5 @@ Investigação da distribuição espacial de focos de incêndio no estado de Min
 
 <p align="center">
   <a href="mailto:lucas_gpaivas@hotmail.com">📧 lucas_gpaivas@hotmail.com</a> •
-  <a href="https://www.linkedin.com/in/lucas-gabriel-pai...">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/lucas-gabriel-paiva-a01068195">💼 LinkedIn</a>
 </p>
