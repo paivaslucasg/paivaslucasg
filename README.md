@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&text=Lucas%20Gabriel&fontColor=ffffff&fontSize=40&desc=Economist%20%7C%20Data%20Science&descSize=18&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&text=Lucas%20Gabriel&fontColor=90CAF9&fontSize=40&desc=Economist%20%7C%20Data%20Science&descSize=18&descAlignY=75&animation=false)
 
 ![visitors](https://komarev.com/ghpvc/?username=paivaslucasg&color=brightgreen&style=flat)
 
