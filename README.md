@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&text=Lucas%20Gabriel&fontColor=000000&fontSize=40&desc=Economist%20%7C%20Data%20Science&descSize=18&descAlignY=75&animation=false)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&text=Lucas%20Paiva&fontColor=000000&fontSize=40&desc=Economist%20%7C%20Data%20Science&descSize=18&descAlignY=75&animation=false)
 
-# Lucas Gabriel de Paiva Souza
+# Lucas Paiva
 
 Estudante de pós-graduação em Economia na **UFMG**, com foco em métodos quantitativos aplicados a problemas de economia ambiental, economia regional, complexidade econômica e políticas públicas.
 
@@ -36,15 +36,6 @@ Investigação da distribuição espacial de focos de incêndio no estado de Min
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paivaslucasg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaslucasg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
