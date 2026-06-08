@@ -1,12 +1,16 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&text=Lucas%20Gabriel&fontColor=ffffff&fontSize=40&desc=Economist%20%7C%20Data%20Science&descSize=18&descAlignY=75)
+
+![visitors](https://komarev.com/ghpvc/?username=paivaslucasg&color=brightgreen&style=flat)
+
 # Lucas Gabriel de Paiva Souza
 
-Estudante de pós-graduação em Economia na **UFMG**, com foco em métodos quantitativos aplicados a problemas de economia ambiental, economia regioanl, complexidade econômica e políticas públicas.
+Estudante de pós-graduação em Economia na **UFMG**, com foco em métodos quantitativos aplicados a problemas de economia ambiental, economia regional, complexidade econômica e políticas públicas.
 
 ---
 
 ## Sobre mim
 
-Meu trabalho combina técnicas de econometria aplicada (Painel de dados, econometria espacial, séries temporais, modelos de avaliação de políticas) ,análise multivariada, machine learning e criação de indicadores para investigar questões ligadas ao desenvolvimento regional, sustentabilidade e desigualdade no Brasil. Tenho interesse em transformar dados complexos em análises interpretáveis e visualmente claras.
+Meu trabalho combina técnicas de econometria aplicada (painel de dados, econometria espacial, séries temporais, modelos de avaliação de políticas), análise multivariada, machine learning e criação de indicadores para investigar questões ligadas ao desenvolvimento regional, sustentabilidade e desigualdade no Brasil. Tenho interesse em transformar dados complexos em análises interpretáveis e visualmente claras.
 
 ---
 
@@ -37,6 +41,15 @@ Investigação da distribuição espacial de focos de incêndio no estado de Min
 
 ---
 
+## Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paivaslucasg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivaslucasg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## Interesses de pesquisa
 
 - Economia ambiental e mudanças climáticas
@@ -52,3 +65,5 @@ Investigação da distribuição espacial de focos de incêndio no estado de Min
   <a href="mailto:lucas_gpaivas@hotmail.com">📧 lucas_gpaivas@hotmail.com</a> •
   <a href="https://www.linkedin.com/in/lucas-gabriel-paiva-a01068195">💼 LinkedIn</a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
